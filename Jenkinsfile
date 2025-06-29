@@ -1,4 +1,4 @@
-pipeline {Add commentMore actions
+pipeline {
     agent any
 
     stages {
